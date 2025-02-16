@@ -1,0 +1,4 @@
+git init = to initialize the project
+
+git add = multiple files adding 
+git add "file name" =single file adding by typing the 
